@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/setting.png</file>
+    <file>profile pic/index.png</file>
+    <file>icons8-warehouse-100.png</file>
+    <file>profile.png</file>
+    <file>camera(1).png</file>
+    <file>app-icon.png</file>
+    <file>if_Instagram_1298747.ico</file>
+    <file>heart1.png</file>
+    <file>search.png</file>
+    <file>icons/collection.png</file>
+    <file>icons/block.png</file>
+    <file>icons/tag.png</file>
+    <file>icons/view_list-512.png</file>
+    <file>icons8-positive-500.png</file>
+    <file>message.png</file>
+  </qresource>
+</RCC>
