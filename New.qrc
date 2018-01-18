@@ -6,7 +6,6 @@
     <file>profile.png</file>
     <file>camera(1).png</file>
     <file>app-icon.png</file>
-    <file>if_Instagram_1298747.ico</file>
     <file>heart1.png</file>
     <file>search.png</file>
     <file>icons/collection.png</file>
@@ -15,5 +14,17 @@
     <file>icons/view_list-512.png</file>
     <file>icons8-positive-500.png</file>
     <file>message.png</file>
+  </qresource>
+  <qresource prefix="story">
+    <file>Story images/0.png</file>
+    <file>Story images/1.png</file>
+    <file>Story images/2.png</file>
+    <file>Story images/3.png</file>
+    <file>Story images/4.png</file>
+    <file>Story images/5.png</file>
+    <file>Story images/6.png</file>
+    <file>Story images/7.png</file>
+    <file>Story images/8.png</file>
+    <file>Story images/9.png</file>
   </qresource>
 </RCC>
